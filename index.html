@@ -1,6 +1,98 @@
 <html>
+<head>
+<link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Málaga Makerspace</title>
+<style>
+html, body {
+  margin: 0;
+  padding:0;
+}
+.main {
+  height: 100vh;
+  width: 100vw;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 2em;
+  box-sizing: border-box;
+  
+  position: relative;
+  
+  font-family: 'Ubuntu', sans-serif;
+  color: white;
+}
+
+.bg {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  z-index: -1;
+  display: block;
+  background: green;
+  
+  object-fit: cover;
+}
+
+.bg > * {
+  height: inherit;
+  width: inherit;
+  object-fit: inherit;
+}
+
+.blurred{
+  filter: blur(20px);
+}
+
+.telegramButton {
+  background: #0088cc;
+  color: hsl(0, 0%, 100%);
+  border: 1px solid #badeef;
+  border-radius: 0.5em;
+  
+  padding: 0.5em 2em 0.5em 3.5em;
+  position: relative;
+  
+  text-decoration: none;
+}
+.telegramButton:hover, .telegramButton:active {
+  background: #319fd6;
+  border: 1px solid white;
+}
+.telegramButton::before {
+  content: "";
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/240px-Telegram_logo.svg.png);
+  background-size: contain;
+  background-position: center center;
+  
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto auto auto 1em;
+  
+  height: 1.5em;
+  width: 1.5em;
+}
+</style>
+</head>
 <body>
-<h1>Málaga Maker Space</h1>
-<h2>Ya tenemos dominio!</h2>
+<div class="main">
+
+<div class="bg" style="background: black; opacity: 1;"></div>
+<img class="bg blurred" src="bg.jpg" />
+<div class="bg" style="background: black; opacity: 0.3;"></div>
+<h1>
+Málaga Makerspace
+</h1>
+<br/>
+<br/>
+<a href="telegram.com/testing" class="telegramButton">Únete a nuestro grupo de Telegram</a>
+</div>
 </body>
 </html>
