@@ -1,0 +1,13 @@
+# main links
+main:
+  - title: FAQ
+    url: /faq
+  - title: Blog
+  - title: Formación
+    url: /formacion
+
+formacion:
+  - title: Fabricacion Aditiva
+    children:
+      - title: Taller básico impresión 3D
+        url: /formacion/fdm-basico
