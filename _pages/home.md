@@ -17,7 +17,7 @@ feature_row:
     image_path: /assets/images/mms-blog.svg
   - title: Formación
     excerpt: No somos expertos, ni profesionales, pero queremos compartir lo que sabemos.
-    url: /formacion
+    url: /formacion/fdm-basico
     btn_class: btn--primary
     image_path: /assets/images/mms-formacion.svg
 ---
