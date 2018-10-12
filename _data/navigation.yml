@@ -4,7 +4,7 @@ main:
     url: /faq
   - title: Blog
   - title: Formación
-    url: /formacion
+    url: /formacion/fdm-basico
 
 formacion:
   - title: Fabricacion Aditiva
