@@ -20,6 +20,8 @@ feature_row:
     url: /formacion/fdm-basico
     btn_class: btn--primary
     image_path: /assets/images/mms-formacion.svg
+intro:
+  - excerpt: 'Participa uniéndote a nuestro grupo [<i class="fab fa-telegram"></i> Malaga MakerSpace](https://t.me/makerspacemalaga){: .btn .btn--twitter}'
 ---
 
 {% include feature_row id="intro" type="center" %}
