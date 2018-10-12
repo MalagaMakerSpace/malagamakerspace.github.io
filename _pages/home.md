@@ -11,7 +11,7 @@ feature_row:
     btn_class: btn--primary
   - title: "Blog"
   - title: Formación
-    excerpt: Ofrecemos formación gratuita en multitud de disciplinas.
+    excerpt: No somos expertos, ni profesionales, pero queremos compartir lo que sabemos.
     url: /formacion
     btn_class: btn--primary
 ---
