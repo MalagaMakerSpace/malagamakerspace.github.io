@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 841.9 1190.6" style="enable-background:new 0 0 841.9 1190.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{font-family:'Savu-Condensed';}
+	.st1{font-size:288.5746px;}
+	.st2{font-size:72px;}
+	.st3{fill:none;stroke:#000000;stroke-width:16;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#FFFFFF;stroke-width:24;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#000000;stroke-width:11;stroke-miterlimit:10;}
+	.st6{font-size:24px;}
+	.st7{fill:#040006;}
+	.st8{fill:none;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st9{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.st10{fill:none;stroke:#FFFFFF;stroke-width:3;stroke-miterlimit:10;}
+	.st11{font-family:'Crafter-Rough';}
+</style>
+<text transform="matrix(1 0 0 1 248.6682 466.3596)"><tspan x="0" y="0" class="st0 st1">3D</tspan><tspan x="27.3" y="86.4" class="st0 st2">Printing</tspan></text>
+<path class="st3" d="M480,176.3c40,0,118.3,0,158.3,0V879H209.6V176.3h261.3c17,0,52.1-7.8,50.6-42.3"/>
+<path class="st4" d="M470.9,176.3c17,0,52.1-7.8,50.6-42.3"/>
+<path class="st3" d="M469.9,176.3c17,0,52.1-7.8,50.6-42.3"/>
+<path class="st5" d="M478.7,0v104.6h26.6c0,39.2,28.7,39.2,29.1,0h26.2L562.4,0"/>
+<text transform="matrix(1 0 0 1 209.631 914.4343)" class="st0 st6">Talleres Gratuitos</text>
+<g>
+	<circle class="st7" cx="646" cy="1113" r="45"/>
+	<path class="st8" d="M663.4,1097c11.2-23-48.2-21.2-33.9,4.3l13.8,23.2l12.2-23.2l7.3,23.9c7.2,25.8-40.9,25.1-33.9,3.6"/>
+	<line class="st9" x1="635.9" y1="1105.9" x2="633.5" y2="1113.7"/>
+	<line class="st9" x1="659.7" y1="1105.2" x2="655.7" y2="1112.8"/>
+	<polyline class="st8" points="661.8,1101.3 649.7,1124.2 637.4,1101.3 630,1124.6 	"/>
+	<line class="st9" x1="648.3" y1="1115" x2="645.1" y2="1121.1"/>
+	<line class="st10" x1="644" y1="1123.1" x2="649.4" y2="1112.9"/>
+	<text transform="matrix(1 0 0 1 711.259 1093)"><tspan x="0" y="0" class="st0 st6">Malaga</tspan><tspan x="0" y="28.8" class="st11 st6">Maker</tspan><tspan x="0" y="57.6" class="st0 st6">Space</tspan></text>
+</g>
+</svg>
