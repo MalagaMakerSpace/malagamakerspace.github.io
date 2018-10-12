@@ -12,4 +12,8 @@
 <url>
 <loc>http://localhost:4000/</loc>
 </url>
+<url>
+<loc>http://localhost:4000/formacion/docs/fdm-basico.pdf</loc>
+<lastmod>2018-09-29T20:41:34+02:00</lastmod>
+</url>
 </urlset>
