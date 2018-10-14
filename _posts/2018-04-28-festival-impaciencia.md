@@ -15,7 +15,7 @@ gallery:
   - image_path: /assets/images/impaciencia-2018-4.jpg
     title: Nos ponemos serios empezamos a hacer recortes con el láser
     url: /assets/images/impaciencia-2018-4.jpg
-  - image_path: /assets/images/impaciencia-2018-5.mp4
+  - image_path: /assets/images/impaciencia-2018-5.gif
     title: ¿Sabías que puedes usar una impresora 3D directamente sobre tela? Estamos investigando la viabilidad de imprimir camisetas
     url: /assets/images/impaciencia-2018-5.mp4
   - image_path: /assets/images/impaciencia-2018-6.jpg
