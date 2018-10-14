@@ -3,8 +3,6 @@ layout: splash
 permalink: /
 header:
   overlay_image: /assets/images/mms-home-page-feature.jpg
-  # excerpt: '"The educational makerspace is based on<br/>student ownership of their learning"<br/><br/>-Laura Fleming'
-#excerpt: "The educational makerspace is based on student ownership of their learning<br/><br/>--Laura Fleming"
 excerpt: '![](/assets/images/mms-logo-filled-orage-circle.svg){:width="210" .align-left}<br/>"The educational makerspace is based on student ownership of their learning."<br/><br/>--Laura Fleming'
 feature_row:
   - title: Preguntas frecuentes
@@ -19,7 +17,7 @@ feature_row:
     btn_class: btn--primary
   - title: Formación
     excerpt: No somos expertos, ni profesionales, pero queremos compartir lo que sabemos.
-    url: /formacion/fdm-basico
+    url: /formacion
     btn_class: btn--primary
     image_path: /assets/images/mms-formacion.svg
 intro:

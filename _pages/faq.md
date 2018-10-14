@@ -18,7 +18,7 @@ Pero lo más importante de un MakerSpace son las personas que se reúnen en él.
 
 ## ¿Qué hacemos?
 
-Nuestro objetivo actual más importante es crear un MakerSpace en el entorno de la UMA y hacerlo lo más accesible posible a los estudiantes de esta. También intentamos introducir al público general a las nuevas (y no tan nuevas) tecnologías de fabricación, esperando que junto con el conocimiento lleguen las ganas de crear y la inventiva. Puedes ver los talleres que ahora mismo se imparten en la página de [formación](/formacion/fdm-basico).
+Nuestro objetivo actual más importante es crear un MakerSpace en el entorno de la UMA y hacerlo lo más accesible posible a los estudiantes de esta. También intentamos introducir al público general a las nuevas (y no tan nuevas) tecnologías de fabricación, esperando que junto con el conocimiento lleguen las ganas de crear y la inventiva. Puedes ver los talleres que ahora mismo se imparten en la página de [formación](/formacion).
 
 ## ¿Por qué lo hacemos?
 

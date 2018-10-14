@@ -5,7 +5,7 @@ main:
   - title: Blog
     url: /blog
   - title: Formación
-    url: /formacion/fdm-basico
+    url: /formacion
 
 formacion:
   - title: Fabricacion Aditiva
