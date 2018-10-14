@@ -15,13 +15,15 @@ feature_row:
   - title: "Blog"
     excerpt: Tal vez quieras echar un vistazo a lo que hemos hecho y aprendido hasta ahora.
     image_path: /assets/images/mms-blog.svg
+    url: /blog
+    btn_class: btn--primary
   - title: Formación
     excerpt: No somos expertos, ni profesionales, pero queremos compartir lo que sabemos.
     url: /formacion/fdm-basico
     btn_class: btn--primary
     image_path: /assets/images/mms-formacion.svg
 intro:
-  - excerpt: 'Participa uniéndote a nuestro grupo [<i class="fab fa-telegram"></i> Malaga MakerSpace](https://t.me/makerspacemalaga){: .btn .btn--twitter}' 
+  - excerpt: 'Participa uniéndote a nuestro grupo [<i class="fab fa-telegram"></i> Malaga MakerSpace](https://t.me/makerspacemalaga){: .btn .btn--twitter}'
 ---
 
 {% include feature_row id="intro" type="center" %}

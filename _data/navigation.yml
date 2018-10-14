@@ -3,6 +3,7 @@ main:
   - title: FAQ
     url: /faq
   - title: Blog
+    url: /blog
   - title: Formación
     url: /formacion/fdm-basico
 
