@@ -12,7 +12,7 @@ de la UMA que tiene como misión educar **makers**, personas con ganas de crear,
 
 ## ¿Qué es un MakerSpace?
 
-Un MakerSpace es un espacio que reúne las herramientas y los medios para que entres con una idea y salgas con un proyecto completo. Suelen contener maquinaria de impresión 3D, electrónica, carpintería, bellas artes, carpintería, control numérico y en general todo lo que la comunidad pida de ellos.
+Un MakerSpace es un espacio que reúne las herramientas y los medios para que entres con una idea y salgas con un proyecto completo. Suelen contener maquinaria de impresión 3D, electrónica, bellas artes, carpintería, control numérico y en general todo lo que la comunidad pida de ellos.
 
 Pero lo más importante de un MakerSpace son las personas que se reúnen en él. En estos lugares existe una variada comunidad de personas con conocimientos de muy diversas disciplinas, que están dispuestos a aprender unos de otros y compartir sus conocimientos por el bien de todos.
 
